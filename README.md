@@ -20,6 +20,7 @@ The project showcases a number of development features, including:
 * Mocked API
 * Dependency Injection
 * CoreGraphics Drawing
+* @IBDesignable / @IBInspectable dynamic custom view
 
 ### HOW? 
 Xcode and Swift!
